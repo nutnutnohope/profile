@@ -35,20 +35,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="59" alt="php logo"  />
 </div>
 
-
+###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/nutnutnohope/nutnutnohope/output/snake.svg" alt="Snake animation" />
 
+###
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
 </div>
 
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nutnutnohope/nutnutnohope/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nutnutnohope/nutnutnohope/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="[def]: ttps://raw.githubusercontent.com/nutnutnohope/nutnutnohope/output/pacman-contribution-graph.sv">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nutnutnohope/nutnutnohope/output/pacman-contribution-graph.svg">
 </picture>
+
+###
